@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CipherShift {
+public class Caesarconsole {
     public static String caesarCipher(String text, int shift) {
         StringBuilder result = new StringBuilder();
         for (char c : text.toCharArray()) {

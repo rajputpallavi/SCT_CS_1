@@ -1,17 +1,20 @@
-# "CipherShift" - A Caesar Cipher Encryption/Decryption Program
+# "CipherShift" - A Caesar Cipher Encryption/Decryption Program (GUI Version added)
 
 This project is Task 1 for the SkillCraft Technology Cybersecurity Internship.
 
 ## Description
-This Java program named "CipherShift" encrypts and decrypts messages using the Caesar Cipher algorithm in a simple console program.  
-Allows input of message, shift value, and choice to encrypt/decrypt.
+This Java program named "CipherShift" encrypts and decrypts messages using the Caesar Cipher algorithm. 
+Users can type a message, enter a shift value, and click buttons to encrypt or decrypt with instant visual results.
 
-It runs as a console application and allows users to:
-- Input a message
-- Input a shift value
-- Choose to encrypt or decrypt the message
+## Features
+- Have both console-based and GUI versions
+- Console:The program uses simple text-based menus and input prompts for ease of use.
+- GUI version: Easy-to-use graphical interface with text areas and buttons.
+- Input validation with error messages.
+- Supports upper- and lowercase letters; leaves other characters unchanged.
+- Provides immediate encrypted/decrypted output in the GUI.
 
-The program uses simple text-based menus and input prompts for ease of use.
+
 
 ## How to Run?
 ### Command-line Usage
