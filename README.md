@@ -18,8 +18,8 @@ Users can type a message, enter a shift value, and click buttons to encrypt or d
 
 ## How to Run?
 ### Command-line Usage
-1. Compile: `javac CaesarCipher.java`
-2. Run: `java CaesarCipher`
+1. Compile: `javac Caesarconsole.java`
+2. Run: `java Caesarconsole`
    You will see a menu where you can select:
    - Encrypt text
    - Decrypt text
