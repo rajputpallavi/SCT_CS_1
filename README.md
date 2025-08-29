@@ -19,9 +19,15 @@ Features
 
 ## 🚀How to Run?
 ### Command-line Usage
-1. Compile: `javac Caesarconsole.java`
-2. Run: `java Caesarconsole`
-   You will see a menu where you can select:
+1. Compile:
+   ```bash
+   javac Caesarconsole.java
+   ```
+2. Run:
+   ```bash
+   java Caesarconsole
+   ```
+ You will see a menu where you can select:
    - Encrypt text
    - Decrypt text
    - Exit the program
